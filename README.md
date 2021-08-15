@@ -5,7 +5,7 @@
 - https://tomosoft.jp/design/?p=5428
 - https://github.com/nRF24/RF24/issues/517
 - Library documentation
-- airspayce.com/mikem/bcm2835/index.html
+- https://airspayce.com/mikem/bcm2835/index.html
 
 # Build code
 - Enable SPI pin using < Preference < Raspberry Pi configuration < Interface < SPI < Enable
